@@ -6,4 +6,7 @@
 1 | AIxSim-요구사항정의서-v1.0.docx | AIxSIM의 사용자 및 시스템 요구사항을 기술함 
 2 | 합성데이터 및 예측모델 고도화 기술 서베이.pdf | AI Simulation, 과제 관련 기술동향, 신호 최적화 동향 분석
 3 | 실증 시나리오.pdf | 결과물 실증을 위한 시나리오 예시
-4 | 
+4 | [AIxSim-Dynamic-Routing-in-Simulation.pdf](./AIxSim-Dynamic-Routing-in-Simulation.pdf) | 교통 시뮬레이션에서의 동적 라우팅 (Rerouting) 연구 사례 조사 정리 (Mobiliti)
+5 | [AIxSIM-에이전트-수요-할당-도구-개발-개요.pdf](./AIxSIM-에이전트-수요-할당-도구-개발-개요.pdf) | 에이전트 수요 동적 할당 도구 개념 및 설계, 일정 등
+6 | [AIxSIM-시스템구조-브레인스토밍.pdf](./AIxSIM-시스템구조-브레인스토밍.pdf) | 예외상황 합성데이터 생성 플랫폼 설계를 위한 브레인스토밍
+7 | [AIxSIM-UNIQ-SALT_실행_튜토리얼_20240904.pdf](./AIxSIM-UNIQ-SALT_실행_튜토리얼_20240904.pdf) | 교통 시뮬레이터인 UNIQ-SALT 실행을 위한 튜토리얼
